@@ -1,7 +1,6 @@
 
 import 'package:athletyc/screens/buyer/cart.dart';
 import 'package:athletyc/screens/buyer/home.dart';
-import 'package:athletyc/screens/buyer/messages.dart';
 import 'package:athletyc/screens/buyer/profile/profile.dart';
 import 'package:flutter/material.dart';
 
