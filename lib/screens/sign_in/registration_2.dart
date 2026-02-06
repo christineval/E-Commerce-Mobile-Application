@@ -165,14 +165,6 @@ class _RegAddress extends State<RegAddress>{
 
     try {
       final response = await http.post(
-      //ip address
-      AppConfig.register,
-      headers: {"Content-Type": "application/json"},
-      body: jsonEncode({
-})}');
-
-
-      final response = await http.post(
         //ip address
         AppConfig.register,
         headers: {"Content-Type": "application/json"},
